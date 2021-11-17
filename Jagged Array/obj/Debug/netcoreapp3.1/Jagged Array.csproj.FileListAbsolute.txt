@@ -1,0 +1,13 @@
+D:\dotnet\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.exe
+D:\dotnet\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.deps.json
+D:\dotnet\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.runtimeconfig.json
+D:\dotnet\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.runtimeconfig.dev.json
+D:\dotnet\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.dll
+D:\dotnet\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.pdb
+D:\dotnet\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.csprojAssemblyReference.cache
+D:\dotnet\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.AssemblyInfoInputs.cache
+D:\dotnet\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.AssemblyInfo.cs
+D:\dotnet\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.csproj.CoreCompileInputs.cache
+D:\dotnet\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.dll
+D:\dotnet\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.pdb
+D:\dotnet\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.genruntimeconfig.cache

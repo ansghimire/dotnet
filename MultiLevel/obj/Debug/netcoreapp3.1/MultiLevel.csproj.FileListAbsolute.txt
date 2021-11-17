@@ -1,0 +1,13 @@
+D:\dotnet\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.exe
+D:\dotnet\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.deps.json
+D:\dotnet\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.runtimeconfig.json
+D:\dotnet\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.runtimeconfig.dev.json
+D:\dotnet\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.dll
+D:\dotnet\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.pdb
+D:\dotnet\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.csprojAssemblyReference.cache
+D:\dotnet\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.AssemblyInfoInputs.cache
+D:\dotnet\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.AssemblyInfo.cs
+D:\dotnet\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.csproj.CoreCompileInputs.cache
+D:\dotnet\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.dll
+D:\dotnet\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.pdb
+D:\dotnet\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.genruntimeconfig.cache

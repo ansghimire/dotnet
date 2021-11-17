@@ -1,0 +1,13 @@
+D:\dotnet\ArrayToFunction\bin\Debug\netcoreapp3.1\ArrayToFunction.exe
+D:\dotnet\ArrayToFunction\bin\Debug\netcoreapp3.1\ArrayToFunction.deps.json
+D:\dotnet\ArrayToFunction\bin\Debug\netcoreapp3.1\ArrayToFunction.runtimeconfig.json
+D:\dotnet\ArrayToFunction\bin\Debug\netcoreapp3.1\ArrayToFunction.runtimeconfig.dev.json
+D:\dotnet\ArrayToFunction\bin\Debug\netcoreapp3.1\ArrayToFunction.dll
+D:\dotnet\ArrayToFunction\bin\Debug\netcoreapp3.1\ArrayToFunction.pdb
+D:\dotnet\ArrayToFunction\obj\Debug\netcoreapp3.1\ArrayToFunction.csprojAssemblyReference.cache
+D:\dotnet\ArrayToFunction\obj\Debug\netcoreapp3.1\ArrayToFunction.AssemblyInfoInputs.cache
+D:\dotnet\ArrayToFunction\obj\Debug\netcoreapp3.1\ArrayToFunction.AssemblyInfo.cs
+D:\dotnet\ArrayToFunction\obj\Debug\netcoreapp3.1\ArrayToFunction.csproj.CoreCompileInputs.cache
+D:\dotnet\ArrayToFunction\obj\Debug\netcoreapp3.1\ArrayToFunction.dll
+D:\dotnet\ArrayToFunction\obj\Debug\netcoreapp3.1\ArrayToFunction.pdb
+D:\dotnet\ArrayToFunction\obj\Debug\netcoreapp3.1\ArrayToFunction.genruntimeconfig.cache

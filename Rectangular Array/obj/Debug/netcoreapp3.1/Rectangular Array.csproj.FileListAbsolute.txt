@@ -1,0 +1,13 @@
+D:\dotnet\Rectangular Array\bin\Debug\netcoreapp3.1\Rectangular Array.exe
+D:\dotnet\Rectangular Array\bin\Debug\netcoreapp3.1\Rectangular Array.deps.json
+D:\dotnet\Rectangular Array\bin\Debug\netcoreapp3.1\Rectangular Array.runtimeconfig.json
+D:\dotnet\Rectangular Array\bin\Debug\netcoreapp3.1\Rectangular Array.runtimeconfig.dev.json
+D:\dotnet\Rectangular Array\bin\Debug\netcoreapp3.1\Rectangular Array.dll
+D:\dotnet\Rectangular Array\bin\Debug\netcoreapp3.1\Rectangular Array.pdb
+D:\dotnet\Rectangular Array\obj\Debug\netcoreapp3.1\Rectangular Array.csprojAssemblyReference.cache
+D:\dotnet\Rectangular Array\obj\Debug\netcoreapp3.1\Rectangular Array.AssemblyInfoInputs.cache
+D:\dotnet\Rectangular Array\obj\Debug\netcoreapp3.1\Rectangular Array.AssemblyInfo.cs
+D:\dotnet\Rectangular Array\obj\Debug\netcoreapp3.1\Rectangular Array.csproj.CoreCompileInputs.cache
+D:\dotnet\Rectangular Array\obj\Debug\netcoreapp3.1\Rectangular Array.dll
+D:\dotnet\Rectangular Array\obj\Debug\netcoreapp3.1\Rectangular Array.pdb
+D:\dotnet\Rectangular Array\obj\Debug\netcoreapp3.1\Rectangular Array.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\dotnet\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+D:\dotnet\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+D:\dotnet\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+D:\dotnet\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+D:\dotnet\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+D:\dotnet\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+D:\dotnet\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csprojAssemblyReference.cache
+D:\dotnet\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+D:\dotnet\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+D:\dotnet\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\dotnet\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+D:\dotnet\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
+D:\dotnet\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\dotnet\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.exe
+D:\dotnet\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.deps.json
+D:\dotnet\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.runtimeconfig.json
+D:\dotnet\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.runtimeconfig.dev.json
+D:\dotnet\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.dll
+D:\dotnet\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.pdb
+D:\dotnet\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.csprojAssemblyReference.cache
+D:\dotnet\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.AssemblyInfoInputs.cache
+D:\dotnet\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.AssemblyInfo.cs
+D:\dotnet\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.csproj.CoreCompileInputs.cache
+D:\dotnet\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.dll
+D:\dotnet\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.pdb
+D:\dotnet\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.genruntimeconfig.cache

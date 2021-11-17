@@ -1,0 +1,13 @@
+D:\dotnet\CallByReference\obj\Debug\netcoreapp3.1\CallByReference.csprojAssemblyReference.cache
+D:\dotnet\CallByReference\obj\Debug\netcoreapp3.1\CallByReference.AssemblyInfoInputs.cache
+D:\dotnet\CallByReference\obj\Debug\netcoreapp3.1\CallByReference.AssemblyInfo.cs
+D:\dotnet\CallByReference\obj\Debug\netcoreapp3.1\CallByReference.csproj.CoreCompileInputs.cache
+D:\dotnet\CallByReference\bin\Debug\netcoreapp3.1\CallByReference.exe
+D:\dotnet\CallByReference\bin\Debug\netcoreapp3.1\CallByReference.deps.json
+D:\dotnet\CallByReference\bin\Debug\netcoreapp3.1\CallByReference.runtimeconfig.json
+D:\dotnet\CallByReference\bin\Debug\netcoreapp3.1\CallByReference.runtimeconfig.dev.json
+D:\dotnet\CallByReference\bin\Debug\netcoreapp3.1\CallByReference.dll
+D:\dotnet\CallByReference\bin\Debug\netcoreapp3.1\CallByReference.pdb
+D:\dotnet\CallByReference\obj\Debug\netcoreapp3.1\CallByReference.dll
+D:\dotnet\CallByReference\obj\Debug\netcoreapp3.1\CallByReference.pdb
+D:\dotnet\CallByReference\obj\Debug\netcoreapp3.1\CallByReference.genruntimeconfig.cache

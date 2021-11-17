@@ -1,0 +1,13 @@
+D:\dotnet\Control Statement\bin\Debug\netcoreapp3.1\Control Statement.exe
+D:\dotnet\Control Statement\bin\Debug\netcoreapp3.1\Control Statement.deps.json
+D:\dotnet\Control Statement\bin\Debug\netcoreapp3.1\Control Statement.runtimeconfig.json
+D:\dotnet\Control Statement\bin\Debug\netcoreapp3.1\Control Statement.runtimeconfig.dev.json
+D:\dotnet\Control Statement\bin\Debug\netcoreapp3.1\Control Statement.dll
+D:\dotnet\Control Statement\bin\Debug\netcoreapp3.1\Control Statement.pdb
+D:\dotnet\Control Statement\obj\Debug\netcoreapp3.1\Control Statement.csprojAssemblyReference.cache
+D:\dotnet\Control Statement\obj\Debug\netcoreapp3.1\Control Statement.AssemblyInfoInputs.cache
+D:\dotnet\Control Statement\obj\Debug\netcoreapp3.1\Control Statement.AssemblyInfo.cs
+D:\dotnet\Control Statement\obj\Debug\netcoreapp3.1\Control Statement.csproj.CoreCompileInputs.cache
+D:\dotnet\Control Statement\obj\Debug\netcoreapp3.1\Control Statement.dll
+D:\dotnet\Control Statement\obj\Debug\netcoreapp3.1\Control Statement.pdb
+D:\dotnet\Control Statement\obj\Debug\netcoreapp3.1\Control Statement.genruntimeconfig.cache

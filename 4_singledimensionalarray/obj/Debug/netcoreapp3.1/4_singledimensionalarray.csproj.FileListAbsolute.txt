@@ -1,0 +1,13 @@
+D:\dotnet\4_singledimensionalarray\bin\Debug\netcoreapp3.1\4_singledimensionalarray.exe
+D:\dotnet\4_singledimensionalarray\bin\Debug\netcoreapp3.1\4_singledimensionalarray.deps.json
+D:\dotnet\4_singledimensionalarray\bin\Debug\netcoreapp3.1\4_singledimensionalarray.runtimeconfig.json
+D:\dotnet\4_singledimensionalarray\bin\Debug\netcoreapp3.1\4_singledimensionalarray.runtimeconfig.dev.json
+D:\dotnet\4_singledimensionalarray\bin\Debug\netcoreapp3.1\4_singledimensionalarray.dll
+D:\dotnet\4_singledimensionalarray\bin\Debug\netcoreapp3.1\4_singledimensionalarray.pdb
+D:\dotnet\4_singledimensionalarray\obj\Debug\netcoreapp3.1\4_singledimensionalarray.csprojAssemblyReference.cache
+D:\dotnet\4_singledimensionalarray\obj\Debug\netcoreapp3.1\4_singledimensionalarray.AssemblyInfoInputs.cache
+D:\dotnet\4_singledimensionalarray\obj\Debug\netcoreapp3.1\4_singledimensionalarray.AssemblyInfo.cs
+D:\dotnet\4_singledimensionalarray\obj\Debug\netcoreapp3.1\4_singledimensionalarray.csproj.CoreCompileInputs.cache
+D:\dotnet\4_singledimensionalarray\obj\Debug\netcoreapp3.1\4_singledimensionalarray.dll
+D:\dotnet\4_singledimensionalarray\obj\Debug\netcoreapp3.1\4_singledimensionalarray.pdb
+D:\dotnet\4_singledimensionalarray\obj\Debug\netcoreapp3.1\4_singledimensionalarray.genruntimeconfig.cache

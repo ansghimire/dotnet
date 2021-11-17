@@ -1,0 +1,13 @@
+D:\dotnet\Hybrid Inheritance\bin\Debug\netcoreapp3.1\Hybrid Inheritance.exe
+D:\dotnet\Hybrid Inheritance\bin\Debug\netcoreapp3.1\Hybrid Inheritance.deps.json
+D:\dotnet\Hybrid Inheritance\bin\Debug\netcoreapp3.1\Hybrid Inheritance.runtimeconfig.json
+D:\dotnet\Hybrid Inheritance\bin\Debug\netcoreapp3.1\Hybrid Inheritance.runtimeconfig.dev.json
+D:\dotnet\Hybrid Inheritance\bin\Debug\netcoreapp3.1\Hybrid Inheritance.dll
+D:\dotnet\Hybrid Inheritance\bin\Debug\netcoreapp3.1\Hybrid Inheritance.pdb
+D:\dotnet\Hybrid Inheritance\obj\Debug\netcoreapp3.1\Hybrid Inheritance.csprojAssemblyReference.cache
+D:\dotnet\Hybrid Inheritance\obj\Debug\netcoreapp3.1\Hybrid Inheritance.AssemblyInfoInputs.cache
+D:\dotnet\Hybrid Inheritance\obj\Debug\netcoreapp3.1\Hybrid Inheritance.AssemblyInfo.cs
+D:\dotnet\Hybrid Inheritance\obj\Debug\netcoreapp3.1\Hybrid Inheritance.csproj.CoreCompileInputs.cache
+D:\dotnet\Hybrid Inheritance\obj\Debug\netcoreapp3.1\Hybrid Inheritance.dll
+D:\dotnet\Hybrid Inheritance\obj\Debug\netcoreapp3.1\Hybrid Inheritance.pdb
+D:\dotnet\Hybrid Inheritance\obj\Debug\netcoreapp3.1\Hybrid Inheritance.genruntimeconfig.cache

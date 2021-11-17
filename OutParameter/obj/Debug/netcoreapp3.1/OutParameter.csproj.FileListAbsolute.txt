@@ -1,0 +1,13 @@
+D:\dotnet\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.csprojAssemblyReference.cache
+D:\dotnet\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.AssemblyInfoInputs.cache
+D:\dotnet\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.AssemblyInfo.cs
+D:\dotnet\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.csproj.CoreCompileInputs.cache
+D:\dotnet\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.exe
+D:\dotnet\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.deps.json
+D:\dotnet\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.runtimeconfig.json
+D:\dotnet\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.runtimeconfig.dev.json
+D:\dotnet\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.dll
+D:\dotnet\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.pdb
+D:\dotnet\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.dll
+D:\dotnet\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.pdb
+D:\dotnet\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.genruntimeconfig.cache

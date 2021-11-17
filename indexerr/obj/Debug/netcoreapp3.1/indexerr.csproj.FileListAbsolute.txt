@@ -1,0 +1,13 @@
+D:\dotnet\indexerr\bin\Debug\netcoreapp3.1\indexerr.exe
+D:\dotnet\indexerr\bin\Debug\netcoreapp3.1\indexerr.deps.json
+D:\dotnet\indexerr\bin\Debug\netcoreapp3.1\indexerr.runtimeconfig.json
+D:\dotnet\indexerr\bin\Debug\netcoreapp3.1\indexerr.runtimeconfig.dev.json
+D:\dotnet\indexerr\bin\Debug\netcoreapp3.1\indexerr.dll
+D:\dotnet\indexerr\bin\Debug\netcoreapp3.1\indexerr.pdb
+D:\dotnet\indexerr\obj\Debug\netcoreapp3.1\indexerr.csprojAssemblyReference.cache
+D:\dotnet\indexerr\obj\Debug\netcoreapp3.1\indexerr.AssemblyInfoInputs.cache
+D:\dotnet\indexerr\obj\Debug\netcoreapp3.1\indexerr.AssemblyInfo.cs
+D:\dotnet\indexerr\obj\Debug\netcoreapp3.1\indexerr.csproj.CoreCompileInputs.cache
+D:\dotnet\indexerr\obj\Debug\netcoreapp3.1\indexerr.dll
+D:\dotnet\indexerr\obj\Debug\netcoreapp3.1\indexerr.pdb
+D:\dotnet\indexerr\obj\Debug\netcoreapp3.1\indexerr.genruntimeconfig.cache
